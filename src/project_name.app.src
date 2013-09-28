@@ -1,0 +1,17 @@
+%% -*- erlang -*-
+{application, project_name,
+ [{description, "Project_Name Example"},
+  {vsn, "0.1.0"},
+  {registered, [project_name_sup]},
+  {mod, {project_name_app, []}},
+  {start_phases, []},
+  {applications, [
+                 kernel
+                 ,stdlib
+                 ,sasl
+                 ,lager
+                 ,cowboy
+                 ,jsx
+                 ]},
+  {env, []}
+ ]}.
