@@ -1,10 +1,10 @@
 %%%-------------------------------------------------------------------
-%%% @author Tristan Sloughter <tristan@heroku.com>
-%%% @copyright (C) 2013, Tristan Sloughter
+%%% @author {username} <{email}>
+%%% @copyright (C) {year}, {username}
 %%% @doc
 %%%
 %%% @end
-%%% Created : 28 Sep 2013 by Tristan Sloughter <tristan@heroku.com>
+%%% Created : {date} by {username} <{email}>
 %%%-------------------------------------------------------------------
 -module(project_name_app).
 

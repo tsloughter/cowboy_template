@@ -1,3 +1,11 @@
+%%%-------------------------------------------------------------------
+%%% @author {username} <{email}>
+%%% @copyright (C) {year}, {username}
+%%% @doc
+%%%
+%%% @end
+%%% Created : {date} by {username} <{email}>
+%%%-------------------------------------------------------------------
 -module(project_name_handler).
 
 -export([init/3,
